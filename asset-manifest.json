@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/PikuminAA/static/js/main.37b22bda.js",
-    "index.html": "/PikuminAA/index.html",
-    "main.37b22bda.js.map": "/PikuminAA/static/js/main.37b22bda.js.map"
+    "main.js": "/static/js/main.37b22bda.js",
+    "index.html": "/index.html",
+    "main.37b22bda.js.map": "/static/js/main.37b22bda.js.map"
   },
   "entrypoints": [
     "static/js/main.37b22bda.js"

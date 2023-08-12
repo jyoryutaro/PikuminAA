@@ -5,7 +5,7 @@ import PikuminGenerator from './components/PikuminGenerator';
 function App() {
   return (
     <div className="App">
-      <h1>Welcome to the Pikmin Generator!</h1>
+      <h1>ピクミンAAジェネレーター</h1>
       <PikuminGenerator />
     </div>
   );
